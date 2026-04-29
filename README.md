@@ -75,3 +75,7 @@ The dataset contains customer-level shopping data with features such as:
 git clone https://github.com/your-username/customer_behaviour.git
 pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
 jupyter notebook
+
+Author
+
+Tanish Badgujar
